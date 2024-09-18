@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aengd.github.io/fOy/sitemap.fOy.gz
